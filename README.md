@@ -9,6 +9,9 @@ This project revolves around the creation of an advanced attendance-taking syste
  - [GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=yCpKWejLYvwLQgQx)
   - [Build Your Own Face Recognition Tool With Python](https://realpython.com/face-recognition-with-python/)
    - [Live Face Recognition in Python](https://youtu.be/pQvkoaevVMk?si=LSwu1cYi4ri3SO6k)
+   - [OpenCV. (n.d.). OpenCV Documentation](https://docs.opencv.org/)
+   - [Ageitgey, A. (n.d.). face_recognition.GitHub Repository.](https://github.com/ageitgey/face_recognition)
+   - [Python Software Foundation. (n.d.).Tkinter Documentation.](https://docs.python.org/3/library/tkinter.html)
 ## Authors
 
 - [@CQ0113](https://github.com/CQ0113)
