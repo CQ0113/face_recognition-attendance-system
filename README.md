@@ -48,5 +48,9 @@ face_recognition requires the dlib library, which has additional system dependen
 Make sure you have Python and pip installed on your system. If you don't have them installed, you can download them from the official Python website: [Python Downloads](https://www.python.org/downloads/).
 
 ## Code
-(Smart face recognition attendance)[
 
+-[Smart face recognition attendance](https://github.com/CQ0113/face_recognition-attendance-system/blob/main/frontendfinal.py)
+
+
+## Documentation
+-[Facial Recognition System]()
