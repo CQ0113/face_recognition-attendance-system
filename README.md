@@ -53,4 +53,4 @@ Make sure you have Python and pip installed on your system. If you don't have th
 
 
 ## Documentation
--[Facial Recognition System]()
+-[Facial Recognition System](https://github.com/CQ0113/face_recognition-attendance-system/blob/main/Facial%20Recognition%20System%20(completed).docx)
