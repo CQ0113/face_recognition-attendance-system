@@ -19,7 +19,7 @@ This project revolves around the creation of an advanced attendance-taking syste
 ## Installation
 
 Install Git:  
-If you haven't already, you need to install Git on your machine. You can download it from the official Git website: Git Downloads.
+If you haven't already, you need to install Git on your machine. You can download it from the official Git website: [Git Downloads](https://git-scm.com/downloads).
 
 Clone the Repository:  
 Open a terminal or command prompt on your computer and navigate to the directory where you want to store the code. Use the git clone command to clone the repository.
