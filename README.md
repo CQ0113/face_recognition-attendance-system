@@ -6,11 +6,6 @@ This project revolves around the creation of an advanced attendance-taking syste
 
 
 ## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
  - [GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=yCpKWejLYvwLQgQx)
   - [Build Your Own Face Recognition Tool With Python](https://realpython.com/face-recognition-with-python/)
    - [Live Face Recognition in Python](https://youtu.be/pQvkoaevVMk?si=LSwu1cYi4ri3SO6k)
