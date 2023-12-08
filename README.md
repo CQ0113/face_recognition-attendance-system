@@ -12,8 +12,8 @@ This project revolves around the creation of an advanced attendance-taking syste
 ## Authors
 
 - [@CQ0113](https://github.com/CQ0113)
-- [@CQ0113](https://github.com/CQ0113)
-- [@CQ0113](https://github.com/CQ0113)
+- [@marcuss-11](https://github.com/marcuss-11)
+- [@jianweipong](https://github.com/jianweipong)
 
 
 ## Installation
