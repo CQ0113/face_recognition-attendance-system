@@ -4,7 +4,6 @@ This project revolves around the creation of an advanced attendance-taking syste
 
 
 
-
 ## Acknowledgements
  - [GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo?si=yCpKWejLYvwLQgQx)
   - [Build Your Own Face Recognition Tool With Python](https://realpython.com/face-recognition-with-python/)
@@ -47,3 +46,11 @@ Note:
 face_recognition requires the dlib library, which has additional system dependencies. Refer to the [face_recognition GitHub page](https://github.com/ageitgey/face_recognition) for installation instructions.
 
 Make sure you have Python and pip installed on your system. If you don't have them installed, you can download them from the official Python website: [Python Downloads](https://www.python.org/downloads/).
+
+## Code
+
+-[Smart face recognition attendance](https://github.com/CQ0113/face_recognition-attendance-system/blob/main/frontendfinal.py)
+
+
+## Documentation
+-[Facial Recognition System](https://github.com/CQ0113/face_recognition-attendance-system/blob/main/Facial%20Recognition%20System%20(completed).docx)
